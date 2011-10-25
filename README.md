@@ -11,7 +11,7 @@ Components
 I18N_Country
 ------------
 
-This class has two purposes. First it contains a lot of information on the world's countries, most notably the short and official *country names* in English and Hungarian as well as in every official language in that country. It also contains the timezone of the capitol, the TLD for that country and EU membership information. This information has been hand-picked and may therefore contain errors.
+This class has two purposes. First it contains a lot of information on the world's countries, most notably the short and official *country names* in English and Hungarian as well as in every official language in that country. It also contains the timezone of the capital, the TLD for that country and EU membership information. This information has been hand-picked and may therefore contain errors.
 
 Secondly, it represents a country as an object and can be queried for the name, etc.
 
