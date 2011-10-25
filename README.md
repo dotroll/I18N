@@ -3,7 +3,7 @@ Abstract
 
 This is an I18N library with some non-standard features. Use at your own risk under the BSD license.
 
-Thanks to the DoclerWeb guys for their help. Please visit (www.dotroll.com)[http://www.dotroll.com] and (www.doclerweb.hu)[http://www.doclerweb.hu]
+Thanks to the DoclerWeb guys for their help. Please visit www.dotroll.com and www.doclerweb.hu
 
 Components
 ==========
