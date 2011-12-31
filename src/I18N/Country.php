@@ -2195,7 +2195,7 @@ class I18N_Country {
 				),
 				"hu" => array(
 					"short" => "Magyarország",
-					"official" => "Magyar Köztársaság",
+					"official" => "Magyarország",
 				),
 			),
 			"eu" => true,
