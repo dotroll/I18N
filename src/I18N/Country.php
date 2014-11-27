@@ -70,12 +70,12 @@ class I18N_Country {
 			),
 			"names" => array(
 				"fa" => array(
-					"short" => "الامارات",
+					"short" => "افغانستان",
 					"official" => "جمهوری اسلامی افغانستان",
 				),
 				"ps" => array(
-					"short" => "الامارات",
-					"official" => "د افغانستان اسلامي جمهوریت",
+					"short" => "افغانستان",
+					"official" => "افغانستان اسلامي جمهوریت",
 				),
 				"en" => array(
 					"short" => "Afghanistan",
