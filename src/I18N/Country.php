@@ -2191,11 +2191,11 @@ class I18N_Country {
 			"names" => array(
 				"en" => array(
 					"short" => "Hungary",
-					"official" => "Republic of Hungary",
+					"official" => "Hungary",
 				),
 				"hu" => array(
 					"short" => "Magyarország",
-					"official" => "Magyar Köztársaság",
+					"official" => "Magyarország",
 				),
 			),
 			"eu" => true,
