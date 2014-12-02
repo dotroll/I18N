@@ -79,6 +79,15 @@ abstract class I18N_Language {
 	public function __wakeup() {
 		$this->setHelperVariables();
 	}
+	
+	/**
+	 * This function returns true if this language is written from right to left
+	 * @return bool
+	 */
+	public function isRTL() {
+		return false;
+	}
+	
 	/**
 	 * This function returns the locale code for internal usage.
 	 * This function exists, so the serialized format is fairly small.
